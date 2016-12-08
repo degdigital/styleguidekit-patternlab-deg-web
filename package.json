@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/degdigital/styleguidekit-patternlab-deg-web.git"
   },
-  "author": "Brian Graves",
+  "author": "Brian Graves <bgraves@degdigital.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/degdigital/styleguidekit-patternlab-deg-web/issues"
