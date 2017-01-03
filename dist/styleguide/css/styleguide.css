@@ -1011,6 +1011,7 @@ body {
 .sg-pattern-category-title {
   font-family: "arimo", "HelveticaNeue", "Helvetica", "Arial", sans-serif !important;
   font-size: 2.5rem !important;
+  font-weight: bold;
   color: #404041 !important;
   margin: 0 0 0.2rem;
   text-transform: capitalize;
@@ -1033,6 +1034,7 @@ body {
 }
 .sg-pattern-category-body p {
   margin: .75rem 0;
+  line-height: 1.88rem;
 }
 .sg-pattern-category-body:empty {
   display: none;

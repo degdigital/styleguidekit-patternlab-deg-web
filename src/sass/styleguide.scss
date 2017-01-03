@@ -1138,6 +1138,7 @@ body {
 .sg-pattern-category-title {
     font-family: $sg-font !important;
     font-size: 2.5rem !important;
+    font-weight: bold;
     color: $sg-gray-dark !important;
     margin: 0 0 0.2rem;
     text-transform: capitalize;
@@ -1160,6 +1161,7 @@ body {
 
     p {
         margin: .75rem 0;
+        line-height: 1.88rem;
     }
 
     &:empty {
