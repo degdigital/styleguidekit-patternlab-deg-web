@@ -118,12 +118,6 @@ $sg-border-radius-med : 6px;
     box-sizing: border-box;
 }
 
-body {
-    background: #f5f5fa;
-}
-
-
-
 /*------------------------------------*\
 #UTILITIES
 \*------------------------------------*/
@@ -810,7 +804,7 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: white;
+    background-color: #f5f5fa;
 
     /**
     * Hay Mode transition
